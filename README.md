@@ -1,6 +1,6 @@
-# Refrigerant Quantity Calculator
+# 🔑 Perkins Key
 
-An advanced online tool for calculating refrigerant mass requirements in HVAC systems based on physical circuit configurations.
+Advanced refrigerant quantity calculator for HVAC systems. Calculate circuit mass requirements based on physical configurations.
 
 ## Features
 
@@ -36,7 +36,7 @@ An advanced online tool for calculating refrigerant mass requirements in HVAC sy
 
 ## Access Online
 
-🔗 **Live Calculator**: https://favassathar-alt.github.io/refrigerant-calculator/
+🔗 **Live Calculator**: https://favassathar-alt.github.io/perkins-key/
 
 Simply share this link with your team - no installation or coding knowledge required!
 
